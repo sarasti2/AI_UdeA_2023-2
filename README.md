@@ -1,2 +1,3 @@
-# AI_UdeA_2023-2
-Proyecto para la materia de modelo y simulación I (Ahora AI) de la universidad de Antioquia, segundo semestre del 2023
+# Proyecto Predicción de los niveles de pobreza en Costa rica
+## Miembros del grupo
+- Alejandro Sarasti Sierra, CC: 1001014501, Ingeniería de Sistemas
